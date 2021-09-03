@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from OnePlus8THydrogen_15.H.29_OTA_0290_all_2107310150_e96b513f516
+# All unpinned blobs below are extracted from OnePlus8THydrogen_15.H.30_OTA_0300_all_2108261351_0a310ee6659a
 
 # ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
